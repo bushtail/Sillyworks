@@ -1,0 +1,47 @@
+{
+	"6a90ba446acf8828b44523c8": {
+		"itemTplToClone": "57505f6224597709a92585a9",
+		"parentId": "5448e8d04bdc2ddf718b4569",
+		"handbookParentId": "5b47574386f77428ca22b336",
+		"overrideProperties": {
+		},
+		"locales": {
+			"en": {
+				"name": "Alyonka chocolate bar",
+				"shortName": "Alyonka",
+				"description": "The famous milk chocolate of post-Soviet times, sweet and creamy. Feels a bit heavy..."
+			}
+		},
+		"fleaPriceRoubles": 0,
+		"handbookPriceRoubles": 0,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": null,
+		"addtoTraders": false,
+		"traders": {},
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"staticLootContainers": [
+			// TODO: add loot containers of consumables
+		],
+		"masteries": false,
+		"masterySections": null,
+		"addWeaponPreset": false,
+		"weaponPresets": null,
+		"addtoHallOfFame": false,
+		"hallOfFameSlots": null,
+		"addtoSpecialSlots": false,
+		"addtoGeneratorAsFuel": false,
+		"generatorFuelSlotStages": null,
+		"addtoHideoutPosterSlots": false,
+		"addPosterToMaps": false,
+		"posterSpawnProbability": null,
+		"addtoStatuetteSlots": false,
+		"addCaliberToAllCloneLocations": false,
+		"addtoStaticAmmo": false,
+		"staticAmmoProbability": null,
+		"addtoEmptyPropSlots": false,
+		"emptyPropSlot": null,
+		"addtoSecureFilters": false
+	}
+}
