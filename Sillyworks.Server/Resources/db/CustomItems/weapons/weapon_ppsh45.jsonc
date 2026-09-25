@@ -1,0 +1,278 @@
+﻿{
+	// PPSh-45
+	"6ab5d824898dcfe2edebe622": {
+		"itemTplToClone": "5ea03f7400685063ec28bfa8",
+		"parentId": "5447b5e04bdc2d62278b4567",
+		"handbookParentId": "5b5f796a86f774093f2ed3c0",
+		"overrideProperties": {
+			// TODO: add custom properties
+		},
+		"locales": {
+			"en": {
+				"name": "PPSh-45 .45 ACP submachine gun",
+				"shortName": "PPSh45",
+				"description": "The PPSh-45 (Pistolet-Pulemyot Shpagina - \"Shpagin's submachine gun\") is an American reproduction of a Soviet submachine gun originally designed by Georgy Shpagin as a cheap, reliable, and simplified alternative to the PPD-40. Unlike it's predecessor, this submachine gun fires the slower, heavier, and fatter .45 ACP - delivering a hefty punch."
+			}
+		},
+		"fleaPriceRoubles": 0,
+		"handbookPriceRoubles": 0,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": null,
+		"addtoTraders": false,
+		"traders": {
+			"MILO": {
+				"6ab5d824898dcfe2edebe622": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1,
+						"buyRestrictionMax": 3
+					},
+					"barters": [
+						{
+							"count": 15000,
+							"_tpl": "5449016a4bdc2d6f028b456f",
+							"onlyFunctional": false,
+							"sptQuestLocked": false
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"staticLootContainers": [
+			{
+				"containerName": "weapon_box",
+				"probability": 10
+			}
+		],
+		"masteries": false,
+		"masterySections": null,
+		"addWeaponPreset": false,
+		"weaponPresets": null,
+		"addtoHallOfFame": false,
+		"hallOfFameSlots": null,
+		"addtoSpecialSlots": false,
+		"addtoGeneratorAsFuel": false,
+		"generatorFuelSlotStages": null,
+		"addtoHideoutPosterSlots": false,
+		"addPosterToMaps": false,
+		"posterSpawnProbability": null,
+		"addtoStatuetteSlots": false,
+		"addCaliberToAllCloneLocations": false,
+		"addtoStaticAmmo": false,
+		"staticAmmoProbability": null,
+		"addtoEmptyPropSlots": false,
+		"emptyPropSlot": null,
+		"addtoSecureFilters": false
+	},
+	// PPSh-45 269mm barrel
+	"6ab5d8371d573c9eae2025db": {
+		"itemTplToClone": "5ea02bb600685063ec28bfa1",
+		"parentId": "555ef6e44bdc2de9068b457e",
+		"handbookParentId": "5b5f75c686f774094242f19f",
+		"overrideProperties": {
+			// TODO: add custom properties
+		},
+		"locales": {
+			"en": {
+				"name": "PPSh-45 .45 ACP 269mm barrel",
+				"shortName": "PPSh-45",
+				"description": "A 269mm barrel for the PPSh-45, chambered in .45 ACP."
+			}
+		},
+		"fleaPriceRoubles": 0,
+		"handbookPriceRoubles": 0,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": null,
+		"addtoTraders": false,
+		"traders": {
+			"MILO": {
+				"6ab5d8371d573c9eae2025db": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1,
+						"buyRestrictionMax": 3
+					},
+					"barters": [
+						{
+							"count": 15000,
+							"_tpl": "5449016a4bdc2d6f028b456f",
+							"onlyFunctional": false,
+							"sptQuestLocked": false
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"staticLootContainers": [
+			{
+				"containerName": "weapon_box",
+				"probability": 10
+			}
+		],
+		"masteries": false,
+		"masterySections": null,
+		"addWeaponPreset": false,
+		"weaponPresets": null,
+		"addtoHallOfFame": false,
+		"hallOfFameSlots": null,
+		"addtoSpecialSlots": false,
+		"addtoGeneratorAsFuel": false,
+		"generatorFuelSlotStages": null,
+		"addtoHideoutPosterSlots": false,
+		"addPosterToMaps": false,
+		"posterSpawnProbability": null,
+		"addtoStatuetteSlots": false,
+		"addCaliberToAllCloneLocations": false,
+		"addtoStaticAmmo": false,
+		"staticAmmoProbability": null,
+		"addtoEmptyPropSlots": false,
+		"emptyPropSlot": null,
+		"addtoSecureFilters": false
+	},
+	// PPSh-45 35-round magazine
+	"6ab5d8405a66db08c58ffd5b": {
+		"itemTplToClone": "5ea034eb5aad6446a939737b",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			// TODO: add custom properties
+		},
+		"locales": {
+			"en": {
+				"name": "PPSh-45 .45 ACP 35-round magazine",
+				"shortName": "PPSh45",
+				"description": "A 35-round .45 ACP steel magazine for the PPSh-45."
+			}
+		},
+		"fleaPriceRoubles": 0,
+		"handbookPriceRoubles": 0,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": null,
+		"addtoTraders": false,
+		"traders": {
+			"MILO": {
+				"6ab5d8405a66db08c58ffd5b": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1,
+						"buyRestrictionMax": 3
+					},
+					"barters": [
+						{
+							"count": 15000,
+							"_tpl": "5449016a4bdc2d6f028b456f",
+							"onlyFunctional": false,
+							"sptQuestLocked": false
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"staticLootContainers": [
+			{
+				"containerName": "weapon_box",
+				"probability": 10
+			}
+		],
+		"masteries": false,
+		"masterySections": null,
+		"addWeaponPreset": false,
+		"weaponPresets": null,
+		"addtoHallOfFame": false,
+		"hallOfFameSlots": null,
+		"addtoSpecialSlots": false,
+		"addtoGeneratorAsFuel": false,
+		"generatorFuelSlotStages": null,
+		"addtoHideoutPosterSlots": false,
+		"addPosterToMaps": false,
+		"posterSpawnProbability": null,
+		"addtoStatuetteSlots": false,
+		"addCaliberToAllCloneLocations": false,
+		"addtoStaticAmmo": false,
+		"staticAmmoProbability": null,
+		"addtoEmptyPropSlots": false,
+		"emptyPropSlot": null,
+		"addtoSecureFilters": false
+	},
+	// PPSh-45 71-round drum magazine
+	"6ab5d84fd16e32eea80e7dd7": {
+		"itemTplToClone": "5ea034f65aad6446a939737e",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			// TODO: add custom properties
+		},
+		"locales": {
+			"en": {
+				"name": "PPSh-45 .45 ACP 71-round drum magazine",
+				"shortName": "PPSh45",
+				"description": "A 71-round .45 ACP steel drum magazine for the PPSh-45."
+			}
+		},
+		"fleaPriceRoubles": 0,
+		"handbookPriceRoubles": 0,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": null,
+		"addtoTraders": false,
+		"traders": {
+			"MILO": {
+				"6ab5d84fd16e32eea80e7dd7": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1,
+						"buyRestrictionMax": 3
+					},
+					"barters": [
+						{
+							"count": 15000,
+							"_tpl": "5449016a4bdc2d6f028b456f",
+							"onlyFunctional": false,
+							"sptQuestLocked": false
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"staticLootContainers": [
+			{
+				"containerName": "weapon_box",
+				"probability": 10
+			}
+		],
+		"masteries": false,
+		"masterySections": null,
+		"addWeaponPreset": false,
+		"weaponPresets": null,
+		"addtoHallOfFame": false,
+		"hallOfFameSlots": null,
+		"addtoSpecialSlots": false,
+		"addtoGeneratorAsFuel": false,
+		"generatorFuelSlotStages": null,
+		"addtoHideoutPosterSlots": false,
+		"addPosterToMaps": false,
+		"posterSpawnProbability": null,
+		"addtoStatuetteSlots": false,
+		"addCaliberToAllCloneLocations": false,
+		"addtoStaticAmmo": false,
+		"staticAmmoProbability": null,
+		"addtoEmptyPropSlots": false,
+		"emptyPropSlot": null,
+		"addtoSecureFilters": false
+	}
+}
